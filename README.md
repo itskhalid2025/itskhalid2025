@@ -48,9 +48,26 @@
 
 ---
 
-## 🌐 Find Me Online  
+## 🔥 My Stats  
 
-- 📧 Email: ece.mohammedkhalid.2457@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/khalid-mohammed-aa23122aa)  
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">
+        <img alt="itskhalid2025's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/itskhalid2025?cardType=level&preferLogin=false" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskhalid2025&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>  
 
 ---
+
+## 🌐 Find Me Online  
+
+- 📧 Email: **ece.mohammedkhalid.2457@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/khalid-mohammed-aa23122aa)  
