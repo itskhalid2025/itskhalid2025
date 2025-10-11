@@ -14,8 +14,13 @@
 
 ---
 
-## 🚀 Featured Projects  
 
+## 🤖 AI Agents Projects
+### AI Resume Builder
+- Crafts an ATS friendly resume and cover letter from an existing resume as per the job description. 
+### AI ScreenShot Agent
+- The LLM Analysis the Screenshots then sends the analysis to the user via telegram.
+## IOT Projects
 ### 🌱 Agricultural Rover – *Arcedus Technologies*  
 - Built a 4x4 autonomous rover for **soil analysis, crop health monitoring, and pest detection**.  
 - Integrated **ROS2, SLAM, LiDAR, Jetson Nano**, and computer vision for real-time navigation.  
@@ -31,7 +36,7 @@
 ### ⛑️ Smart Helmet – IoT Safety Device  
 - Detects accidents using **IMU + GPS** and auto-sends emergency alerts via a connected app.  
 
-### 🌐 Web Development Projects  
+## 🌐 Web Development Projects  
 - `wp-shortcodes-helpers`: WordPress plugin with custom helper shortcodes.  
 - `landing-theme`: Simple responsive WordPress theme / static HTML landing page.  
 - `php-form-utils`: Lightweight PHP library for form validation & sanitization.  
