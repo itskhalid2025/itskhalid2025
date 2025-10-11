@@ -6,7 +6,7 @@
 ---
 
 ## 🛠 Skills  
-
+- **Ai Agents**: Python, API Integration, Automation 
 - **Web Development**: PHP, WordPress, HTML, CSS, JavaScript, React, ASP.NET Core, SQL Server  
 - **Programming**: Python, C#, Java, Embedded C  
 - **Tools & Platforms**: Git, GitHub, Docker, ROS2, Ubuntu, Verilog, MySQL  
