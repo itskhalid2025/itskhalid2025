@@ -15,7 +15,7 @@
 ---
 
 
-## 🤖 AI Agents Projects
+## 🤖 AI Agent Projects
 ### AI Resume Builder
 - Crafts an ATS friendly resume and cover letter from an existing resume as per the job description. 
 ### AI ScreenShot Agent
